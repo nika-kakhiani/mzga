@@ -1,0 +1,164 @@
+
+.logo{
+	margin: 30px 49.9px 0 30px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.image{
+	margin-top: 76.9px;
+}
+.navigation {
+	margin-top: 30.8px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li{
+	display: inline-block;
+}
+.nav-a1 {
+	font-size: 22px;
+	color: #3D58A6;
+	margin-right: 18px;
+}
+.nav-a2{
+	font-size: 22px;
+	color: #3D58A6;
+	margin-left: 30px;
+}
+.active {
+	color: red;
+}
+.container {
+	width: 1170px;
+	margin: 0 auto;
+}
+.left-block{
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	margin-right: 20px;
+}
+.right-block {
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block; 
+}
+.article-text{
+	width: 355px;
+	vertical-align: middle;
+	display: inline-block;
+}
+.article-image {
+	vertical-align: middle;
+	padding: 12.7px 60.3px 41.7px 38.8px;
+}
+.div-h4{
+	padding: 11.1px 0 12.7px 20.8px;
+	color: #3D58A6;
+}
+.index-h3{
+	margin-top: 117.7px;
+	margin-bottom: 29.8px;
+	font-style: solid;
+	font-size: 24px;
+}
+.divider{
+	width: 1px;
+	height: 27px;
+	background-color: #363E97;
+	display: inline-block;
+}
+.index-footer {
+	margin: 68.3px 0 38.7px 370px;
+	margin-
+}
+.divider {
+	margin-right: 30.2px;
+	margin-left: 39.5px;
+}
+.date {
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	font-style: solid;
+	font-size: 48px;
+	color: white;
+	padding: 4px;
+	margin-top: 40.4px;
+}
+.news-h3 {
+	width: 63px;
+	height: 30px;
+	font-size: 22px;
+	color: #3D58A6;
+	margin-bottom: 17.5px;
+}
+.news-h4 {
+	width: 743px;
+	height: 27px;
+	font-size: 20px;
+	margin-bottom: 17.5px;
+}
+.news-article {
+	margin-left: 30px;
+	display: inline-block;
+}
+.div-p {
+	display: inline-block;
+	width: 929px;
+	height: 360px;
+
+}
+.mzga {
+	margin-bottom: 30px;
+	display: inline-block;
+	vertical-align: top;
+}
+.image-news {
+	vertical-align: top;
+	display: inline-block;
+	margin-right: 39px;
+}
+.news-footer{
+	margin-left: 30px;
+	margin-top: 32.1px;
+}
+.contact-container{
+	display: inline-block;
+	margin: 0 auto;
+}
+.contact-right{
+	width: 848.5px;
+	height: 464.5px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 37px;
+}
+.contact-left{
+	width: 261px;
+	height: 98px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 89.3px;
+	margin-top:49.5px;
+	margin-right: 63.7px;
+}
+.span{
+	color: grey;
+}
+.map {
+	display: inline-block;
+}
+.contact-inf{
+	font-size: 20px;
+	color: #3D58A6;
+}
+.contact-inf2 {
+	font-size: 15px;
+}
+.section{
+	background-color: #E6E6E6;
+	width: 1366px;
+	height: 570px;
+	margin-top: 24.4px;
+}
